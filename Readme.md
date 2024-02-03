@@ -1,4 +1,4 @@
-## Customize Codeforces Website: Hide Sidebar, Center Problem Statement and much more.
+## UserScript for Customization of Codeforces Website: Hide Sidebar, Center Problem Statement and much more.
 
 **Step 1: Install Tampermonkey**
 
