@@ -23,8 +23,9 @@ You can view the publication here: [My Script on Pudn.com](https://www.pudn.com/
 
 1. Clear the template script from the editor.
 2. Copy the script
-```md
-  // ==UserScript==
+```javaScript
+ 
+// ==UserScript==
 // @name         Hide Codeforces Sidebar and center problem statement
 // @namespace    http://tampermonkey.net/
 // @version      0.1
@@ -101,6 +102,9 @@ You can view the publication here: [My Script on Pudn.com](https://www.pudn.com/
     adjustLayout();
     window.addEventListener("resize", adjustLayout);
 })();
+
+
+
 
 ```
 
