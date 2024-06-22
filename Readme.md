@@ -1,3 +1,10 @@
+## Acknowledgements
+I would like to extend my heartfelt thanks to the contributors at Pudn.com for publishing my user script on their platform. Your support helps in reaching and assisting a wider audience.
+
+You can view the publication here: [My Script on Pudn.com](https://www.pudn.com/Download/item/id/1707145685279331.html).
+
+
+
 ## UserScript for Customization of Codeforces Website: Hide Sidebar, Center Problem Statement and much more.
 
 **Step 1: Install Tampermonkey**
@@ -112,3 +119,64 @@ The script will automatically run on the Codeforces website, hiding the sidebar 
 If your browser's window is wider than 600 pixels, the script will hide the sidebar, center the problem statement, and adjust the font size accordingly.
 
 If your browser's window is narrower than 600 pixels, the script will hide the sidebar, center the problem statement, and adjust the font size accordingly.
+
+
+
+## Contribution Guide
+
+### How to Contribute
+
+We welcome contributions from everyone! By contributing to this project, you can help improve the user experience and functionality of the CF-UI Modifier UserScript. Below are the guidelines for contributing to this repository.
+
+### Getting Started
+
+1. **Fork the Repository**: Click the "Fork" button at the top right of this page to create a copy of this repository in your GitHub account.
+
+2. **Clone the Repository**: Use the following command to clone your forked repository to your local machine:
+   ```sh
+   git clone https://github.com/YOUR-USERNAME/CF-UI-modifier-UserScript.git
+   ```
+
+3. **Create a Branch**: Create a new branch for your feature or bug fix. Use a descriptive name for your branch.
+   ```sh
+   git checkout -b feature/your-feature-name
+   ```
+
+### Making Changes
+
+1. **Write Clear, Concise Code**: Follow the existing coding style of the project and ensure your code is clean and well-documented.
+
+2. **Add Tests**: If you are adding new functionality, make sure to add appropriate tests.
+
+3. **Commit Your Changes**: Write a clear and concise commit message describing your changes.
+   ```sh
+   git add .
+   git commit -m "Add feature/your-feature-name: brief description of your changes"
+   ```
+
+4. **Push to Your Fork**: Push your changes to your forked repository.
+   ```sh
+   git push origin feature/your-feature-name
+   ```
+
+### Submitting a Pull Request
+
+1. **Create a Pull Request**: Go to the "Pull Requests" tab of your forked repository on GitHub and click the "New Pull Request" button.
+
+2. **Describe Your Changes**: Provide a clear description of the changes you have made, including the problem you are solving and how your changes address it.
+
+3. **Link to Issues**: If your pull request addresses any open issues, include links to them in the description.
+
+4. **Request a Review**: Request a review from one of the project maintainers by tagging them in the pull request.
+   
+
+### Code Review Process
+
+1. **Automated Tests**: Your pull request will automatically run through our CI/CD pipeline to ensure all tests pass.
+
+2. **Manual Review**: A project maintainer will review your code, provide feedback, and ask for any necessary changes.
+
+3. **Approval**: Once your pull request is reviewed and approved, it will be merged into the main branch.
+
+
+
